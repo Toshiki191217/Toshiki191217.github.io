@@ -1,0 +1,15 @@
+h1.ttl-1{font-size: 100px;
+         height: 60px;
+         width: 130px;
+         background-color: blue;
+         color: white;
+         border-style: solid;
+         
+        }
+p.ttl-1{font-size: 50px;
+         height: 60px;
+         width: 100px;
+         background-color: aqua;
+         color: black;
+         border-radius: 50%;
+         }
